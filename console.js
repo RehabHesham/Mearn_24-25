@@ -1,6 +1,6 @@
 console.log("Hello World")
-console.log("Hello World")
-function main(){
+function main() {
+  console.log("Hello World")
   return null
 }
 main()
